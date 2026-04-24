@@ -1,6 +1,3 @@
-# Training Lab
-Documentation of technical skills, network auditing, and penetration testing methodologies.
-
 ## Environment
 - **Host:** Linux Mint XFCE (Pentium N5030 / 8GB RAM)
 - **Container:** Kali Linux via Distrobox
