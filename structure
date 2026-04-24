@@ -1,0 +1,7 @@
+.
+├── README.md                      # Index principal et progression
+├── Module-1-Networking/
+│   ├── Reference.md               # Documentation technique (Cours)
+│   ├── Commands-Cheatsheet.md     # Liste condensée des commandes
+│   └── Activity-Logs.md           # Tes scans nmap et résultats réels
+└── .gitignore                     # Pour éviter de push des fichiers temporaires
