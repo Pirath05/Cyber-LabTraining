@@ -1,5 +1,5 @@
 ## Environment
-- **Host:** Linux Mint XFCE (Pentium N5030 / 8GB RAM)
+- **Host:** Linux Mint XFCE 
 - **Container:** Kali Linux via Distrobox
 - **Network:** Isolated Home Lab / Docker Bridge
 
