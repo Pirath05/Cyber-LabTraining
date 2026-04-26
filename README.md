@@ -1,7 +1,7 @@
 ## Environment
 - **Host:** Linux Mint XFCE 
 - **Container:** Kali Linux via Distrobox
-- **Network:** Isolated Home Lab / Docker Bridge
+- **Network:** Isolated Home Lab / Docker Bridge / Virtual Machine
 
 ## Progression
 - [x] **Module 1: Networking & Reconnaissance**
