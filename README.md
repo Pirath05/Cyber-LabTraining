@@ -2,7 +2,7 @@
 Small guideline for ethical hacking and understand CyberSecurity process.
 
 ## Environment
-- **Host:** Linux Mint XFCE 
+- **Host:** Linux Ubuntu : Kubuntu
 - **Container:** Kali Linux via Distrobox
 - **Network:** Isolated Home Lab / Docker Bridge / Virtual Machine
 
