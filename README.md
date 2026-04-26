@@ -5,6 +5,5 @@
 
 ## Progression
 - [x] **Module 1: Networking & Reconnaissance**
-- [ ] **Module 2: Advanced Scanning & Enumeration**
-- [ ] **Module 3: Vulnerability Assessment**
+- [x] **Module 2: Vulnerability Research & Exploitation**
 
