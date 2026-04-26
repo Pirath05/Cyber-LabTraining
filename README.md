@@ -1,3 +1,6 @@
+## Why
+Small guideline for ethical hacking and understand CyberSecurity process.
+
 ## Environment
 - **Host:** Linux Mint XFCE 
 - **Container:** Kali Linux via Distrobox
