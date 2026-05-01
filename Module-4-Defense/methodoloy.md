@@ -1,8 +1,11 @@
 
 ## 1. Mapping
 | **SQL Injection** | SQL keywords in GET/POST logs | WAF + Prepared Queries |
+
 | **Directory Brute-force** | High frequency of 404 errors | Rate Limiting + Fail2ban |
+
 | **SSH Brute-force** | "Failed password" in auth.log | Fail2ban + Public Key Auth |
+
 | **Nmap Scan** | Rapid TCP SYN on multiple ports | IDS (Snort) + Firewall |
 
 ## 2. Fail2ban Logic
