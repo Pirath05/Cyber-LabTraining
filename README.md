@@ -3,7 +3,7 @@ Small guideline for ethical hacking and understand CyberSecurity process.
 
 ## Environment
 - **Host:** Linux Ubuntu : Kubuntu 26.04
-- **Container:** Kali Linux via Distrobox
+- **Container:** Kali Linux via Distrobox & Metasploit VM
 - **Network:** Isolated Home Lab / Docker Bridge / Virtual Machine
 
 ## Progression
